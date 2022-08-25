@@ -1,0 +1,22 @@
+{
+  "name": "pile-ou-face",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sambo-974/Pile-ou-Face.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sambo-974/Pile-ou-Face/issues"
+  },
+  "homepage": "https://github.com/Sambo-974/Pile-ou-Face#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
